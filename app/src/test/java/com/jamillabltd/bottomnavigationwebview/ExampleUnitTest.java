@@ -1,4 +1,4 @@
-package com.jamillabltd.bottomnavigationone;
+package com.jamillabltd.bottomnavigationwebview;
 
 import org.junit.Test;
 

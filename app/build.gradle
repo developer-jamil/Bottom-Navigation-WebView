@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.jamillabltd.bottomnavigationone'
+    namespace 'com.jamillabltd.bottomnavigationwebview'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.jamillabltd.bottomnavigationone"
+        applicationId "com.jamillabltd.bottomnavigationwebview"
         minSdk 21
         targetSdk 33
         versionCode 1
